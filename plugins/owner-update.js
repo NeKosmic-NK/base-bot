@@ -11,3 +11,4 @@ handler.command = /^update$/i
 handler.rowner = true
 handler.fail = null
 module.exports = handler
+

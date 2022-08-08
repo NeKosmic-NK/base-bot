@@ -881,3 +881,4 @@ async function textpro(effect, ...texts) {
   let results = await resImgUrl.json()
   return 'https://textpro.me' + results.fullsize_image
 }
+

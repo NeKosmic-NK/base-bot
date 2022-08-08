@@ -16,3 +16,4 @@ handler.command = /^(gimage|image|imagen)$/i
 module.exports = handler
 function pickRandom(arr) {
 return arr[Math.floor(Math.random() * arr.length)]}
+

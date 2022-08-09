@@ -231,3 +231,4 @@ console.log(chalk.cyanBright(`\n▣────────[ 𝙰𝚄𝚃𝙾�
 _quickTest()
 .then(() => conn.logger.info('Test Rapido Realizado'))
 .catch(console.error)
+

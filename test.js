@@ -17,3 +17,4 @@ console.log('Done', file)
 })
 .stderr.on('data', chunk => assert.ok(chunk.length < 1, file + '\n\n' + chunk))
 }
+
